@@ -30,7 +30,8 @@
 
 
 ## 📊 GitHub Stats
-![Rishabha's GitHub stats](https://github-readme-stats.vercel.app/api?username=R2101-cmd&show_icons=true&hide=stars&theme=default)
+[![Rishabha's GitHub stats](https://github-readme-stats.vercel.app/api?username=R2101-cmd&show_icons=true&hide=stars&theme=default)](https://github-readme-stats.vercel.app/api?username=R2101-cmd&show_icons=true&hide=stars&theme=default
+)
 
 
 ---
