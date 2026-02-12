@@ -30,14 +30,11 @@
 
 
 ## 📊 GitHub Stats
-![Rishabha's GitHub stats](https://github-readme-stats.vercel.app/api?R2101-cmd=R2101-cmd&show_icons=true&theme=radical)
+![Rishabha's GitHub stats](https://github-readme-stats.vercel.app/api?username=R2101-cmd&show_icons=true&hide=stars&theme=default)
+
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=R2101-cmd&theme=radical)
-
----
 
 
 
