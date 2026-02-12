@@ -30,7 +30,9 @@
 
 
 ## 📊 GitHub Stats
-![Rishabha's GitHub stats](https://github-readme-stats.vercel.app/api?username=R2101-cmd&show_icons=true&count_private=true&include_all_commits=true&theme=github_light)
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=R2101-cmd&show_icons=true&theme=github)
+
 
 
 
